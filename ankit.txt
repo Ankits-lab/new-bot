@@ -4,7 +4,7 @@ https://telegra.ph/file/4cad61d7553e57c12454b.jpg
 |||||
 AncientOS V6.0 | Android 12 | Alpha
 for  Lime
-Maintained by @ankitkene
+Maintained by @workdisgtreat
 
 Build Variant : Gapps
 Build Version : 6.0 | weeabo | Alpha 
